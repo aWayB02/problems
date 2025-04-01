@@ -1,5 +1,6 @@
 
-[[problem]]
+problem: https://leetcode.com/problems/kth-missing-positive-number/description/?envType=problem-list-v2&envId=binary-search  
+
 date: 01.04.25
 
  $$\text{Реализация за}\ O(N + K)$$
